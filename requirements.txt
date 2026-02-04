@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+langchain-chroma
+pypdf
+python-dotenv
+streamlit
+nest_asyncio
