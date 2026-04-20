@@ -2,14 +2,15 @@
 
 Bu projeyi **RotAI: Otonom Agent Yarışması** kapsamında geliştirdim. Yarışmada bizden istenilenler. 
 Agent'ın bir dokümanı okuyup, bir danışman gibi yorumlaması isenecektir. 
-• Görev: Verilen bir PDF dosyasını okumak ve o dosya ile ilgili sorulan anlık soruları 
-yanıtlamak. 
-• Beklenti: Agent, cevabı bir mail olarak atmalıdır. Ancak mail şu yapısal 
+
+* Görev: Verilen bir PDF dosyasını okumak ve o dosya ile ilgili sorulan anlık soruları 
+yanıtlamak.
+* Beklenti: Agent, cevabı bir mail olarak atmalıdır. Ancak mail şu yapısal 
 başlıklardan oluşmalıdır: 
-o Soru: (Sorulan soru) 
-o Cevap: (PDF'teki net bilgi) 
-o Agent Yorumu: (Agent'ın konuya dair içgörüsü) 
-o Öneri Aksiyonları: (Agent'ın bu bilgi ışığında önerdiği adımlar)
+   * Soru: (Sorulan soru) 
+   * Cevap: (PDF'teki net bilgi) 
+   * Agent Yorumu: (Agent'ın konuya dair içgörüsü) 
+   * Öneri Aksiyonları: (Agent'ın bu bilgi ışığında önerdiği adımlar)
 
 ## Özellikler
 
